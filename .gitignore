@@ -1,0 +1,8 @@
+# Environments
+env
+
+# Databases
+db.sqlite3
+
+# Cache
+__pycache__/
